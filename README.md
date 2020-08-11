@@ -4,7 +4,7 @@ List of courses to work through.
 
 ## General
 
-- [ ] https://www.udemy.com/course/programming-best-practices/
+- [x] https://www.udemy.com/course/programming-best-practices/
 - [ ] https://www.udemy.com/course/software-engineering-sen/
 - [ ] https://www.udemy.com/course/gitandgithub/
 - [ ] https://www.udemy.com/course/debugging-for-novice-to-intermediate-developers/
