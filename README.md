@@ -1,5 +1,6 @@
 # Curriculum
-List of courses to work through.
+List of courses to work through.  
+Here are some [resources](https://github.com/straylightnode/learning/blob/master/resources.md) as well.
 
 
 ## General
